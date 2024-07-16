@@ -1,8 +1,12 @@
+# My Compose Multiplatform Mobile (CMP) Project
 
+Welcome to my first Compose Multiplatform Mobile (CMP) project! This project aims to demonstrate the power of Kotlin(Compose) for building cross-platform applications targeting both iOS and Android.
 
-
+## Image
 
 ![Screen Shot 2024-07-09 at 12 45 02 PM](https://github.com/Tonistark92/Compose-MultiPlatform-/assets/86676102/2ebb00c9-4cd7-445d-b07a-7a0ce087bc57)
+
+
 This is a Kotlin Multiplatform project targeting Android, iOS, Desktop.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
@@ -15,5 +19,3 @@ This is a Kotlin Multiplatform project targeting Android, iOS, Desktop.
 * `/iosApp` contains iOS applications. Even if you’re sharing your UI with Compose Multiplatform, 
   you need this entry point for your iOS app. This is also where you should add SwiftUI code for your project.
 
-
-Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
